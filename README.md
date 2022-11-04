@@ -1,2 +1,2 @@
 # A-Pathfinding
-A* Pathfinding in Unity
+A* Pathfinding with Unity
